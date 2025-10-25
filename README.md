@@ -54,4 +54,10 @@ The `archiveEvent` function will now automatically run every night, moving event
 
 The above steps can be repeated to sort the events every night. 
 
+## Dependencies and Layout
+
+This script relies on a specific Google Sheet structure, including sheets named "Booking Form," "Archive (2022)," etc.
+
+➡️ **For a visual reference of the required column and cell layout, please see the dedicated [Layout Reference Document](LAYOUT.md).**
+
 *This README was created with assistance from Google Gemini.*
